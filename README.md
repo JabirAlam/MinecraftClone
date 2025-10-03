@@ -6,4 +6,3 @@ This project is currently a **Work In Progress**, which means new features, bug 
 - Recreate the core Minecraft experience (world generation, blocks, crafting, survival, etc.)
 - Keep the code open, simple, and easy to understand for anyone interested in game development
 - Support modding and custom features in the future
-- Provide cross-platform support (Windows, Linux, macOS)
