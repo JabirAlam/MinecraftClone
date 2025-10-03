@@ -27,11 +27,6 @@ The project is in **early development**. Right now the focus is on:
 
 ---
 
-## 📌 Notes
-⚠️ This is a **learning project** and not a replacement for the official Minecraft.  
-
-💡 Contributions, pull requests, and feedback are highly encouraged!  
-
 ---
 
 ## 🚧 Roadmap
@@ -44,7 +39,7 @@ The project is in **early development**. Right now the focus is on:
 ---
 
 ## 🤝 Contributing
-Want to help? Fork the repo, make your changes, and submit a pull request!  
+Want to help? Fork the repo, make your changes, and submit a pull request!  💡 Contributions, pull requests, and feedback are highly encouraged! Thank You.
 
 ---
 
